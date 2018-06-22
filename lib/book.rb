@@ -29,5 +29,5 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 end
-Harry Potter = Book.new ("Harry potter and the sorcereor's stone")
-Harry Potter.turn_page
+Harry_Potter = Book.new ("Harry potter and the sorcereor's stone")
+Harry_Potter.turn_page
