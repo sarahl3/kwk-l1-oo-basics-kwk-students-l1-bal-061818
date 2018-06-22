@@ -4,10 +4,19 @@ class Book
   def initialize(title)
     @title = title
   end
-  
   def title
     @title
   end
-  
   def author = (author)
-    @author = au
+    @author = author
+  end
+  def author 
+    @author
+  end
+  def page_number = (pages)
+    @page_number = pages 
+  end
+  def page_number 
+    @page_number
+  end
+end
